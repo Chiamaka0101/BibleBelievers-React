@@ -1,0 +1,98 @@
+*{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+/* Center only the title + text section */
+.homepage-title {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bold;
+  color: #002147;
+  margin-bottom: 1rem;
+}
+
+.text-section {
+  text-align: center;
+  margin: 0 auto 2rem auto; /* centers and gives spacing */
+  max-width: 800px;         /* keeps lines readable */
+}
+
+.motto {
+  font-size: 15px;
+  margin-bottom: 0.5rem;
+  margin-top: -10px;
+  color: #333;
+}
+
+.homepage-verse {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.6;
+  margin-top: -5px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .homepage-title {
+    font-size: 2rem;
+  }
+
+  .motto, .homepage-verse {
+    font-size: 0.95rem;
+  }
+}
+
+
+
+.image-text-wrapper {
+  display: flex;
+  align-items: center;   /* vertically centers text & image */
+  justify-content: center; /* centers content in the homepage */
+  gap: 2rem;
+  margin: 2rem auto;
+  max-width: 1100px; /* keeps it nicely centered */
+}
+
+.image-section {
+  flex: 1;
+  text-align: center; /* image is centered inside its column */
+}
+
+.overview-text {
+  flex: 1;
+  font-size: 18px;
+  line-height: 1.9;
+  text-align: justify;
+  padding: 0 1rem;
+  font-weight: bold;
+  word-spacing: 2px;
+  font-family: Poppins;
+  
+}
+
+.banner {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
+  transition: all 0.6s ease-in-out;
+}
+
+.banner:hover {
+  transform: scale(1.03);
+  opacity: 0.95;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .image-text-wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .overview-text {
+    padding: 0;
+  }
+}
