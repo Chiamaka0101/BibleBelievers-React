@@ -18,6 +18,41 @@ No one can be born again in this age without the revelation of the seven seals o
 
 In this last dispensation known as the CAPSTONE Age (Raptured age Holy Convocation, Light upon light age), the manifold wisdom of God is made known through the Church to principalities and powers in heavenly places (Ephesians 3:10-11). It's a time of great revelation and opportunity, but also of great responsibility, as those who reject the message of the seven seals risk being left behind. The mystery of God, as revealed through the seven seals, is essential for those seeking to be part of the end-time Bride.`
   },
+
+
+
+  { id: "william-branham", 
+    title: "FORERUNNER OF CHRIST'S SECOND COMING: WILLIAM BRANHAM", 
+    content: `William Branham and John the Baptist share several similarities in their roles and experiences.\n\n
+- Forerunner Role: Both were forerunners, with John the Baptist preparing the way for Jesus Christ's first coming
+ and William Branham believed to be a messenger for Christ's second coming. As John the Baptist fulfilled Isaiah 40:3,
+  "I am the voice of one crying in the wilderness. Make straight the way of the Lord", Branham's ministry was seen as a 
+  sign of the approaching end times. \n\n
+
+- Divine Commission: Both received a divine commission to fulfill their roles. John was sent by God to prepare the people 
+for Jesus (John 1:6-8), while Branham believed he was called to restore true Christianity and prepare the Bride for 
+Christ's return, emphasizing the importance of staying with the Word as brought by the messenger (2 Timothy 3:16-17). \n\n
+
+
+- Warning Against Worship: Both warned against being worshiped or mistaken for the Messiah. John emphasized that he was not 
+the Christ, but a messenger sent by God (John 1:19-27), while Branham cautioned his followers not to elevate him to the 
+status of Christ, emphasizing that he was merely a servant of God, pointing people to Christ rather than himself (John 12:32).\n\n
+
+- Spiritual Authority: Both demonstrated spiritual authority through their messages and actions. John's message was powerful enough 
+to draw people to repentance (Matthew 3:5-6), while Branham's ministry was marked by signs and wonders that confirmed his message, 
+similar to Jesus' ministry (John 10:37-38).\n\n\
+
+- Rejection and Controversy: Both faced rejection and controversy. John was imprisoned and eventually beheaded for his bold message 
+(Matthew 14:1-12), while Branham faced criticism and skepticism from some who questioned his claims and authority.\n\n
+- Prophetic Ministry: Both had a prophetic ministry, with John calling people to repentance (Matthew 3:2) and Branham prophesying 
+about the end times and the return of Christ, emphasizing the vindication of a prophet through their words and actions (John 10:37-38).\n\n
+
+- Humility and Submission: Both demonstrated humility and submission to God's will. John acknowledged that Jesus was greater than him 
+(John 1:15), and Branham emphasized his role as a servant of God, saying he was "not the Lord Jesus Christ, not the Messiah, but he 
+is your brother, a servant of the Lord, a prophet of God"` 
+ },
+
+
   { id: "water-baptism", title: "WATER BAPTISM", content: "..." },
   { id: "godhead", title: "GODHEAD", content: "..." },
   { id: "role-of-women", title: "ROLE OF WOMEN IN THE CHURCH", content: "..." },
