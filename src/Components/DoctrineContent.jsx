@@ -22,7 +22,7 @@ In this last dispensation known as the CAPSTONE Age (Raptured age Holy Convocati
 
 
   { id: "william-branham", 
-    title: "FORERUNNER OF CHRIST'S SECOND COMING: WMB", 
+    title: "FORERUNNER OF CHRIST SECOND COMING: William Branham", 
     content: `William Branham and John the Baptist share several similarities in their roles and experiences.\n\n
 - Forerunner Role: Both were forerunners, with John the Baptist preparing the way for Jesus Christ's first coming
  and William Branham believed to be a messenger for Christ's second coming. As John the Baptist fulfilled Isaiah 40:3,

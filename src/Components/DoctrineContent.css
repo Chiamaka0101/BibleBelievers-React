@@ -6,29 +6,34 @@ body {
   font-weight: 500;
 }
 
+/* doctrine.css */
+
 .doctrine-container {
-  max-width: 1100px;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 1rem 1rem;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
 }
 
 .doctrine-title {
   text-align: center;
   font-size: 1.8rem;
   font-weight: bold;
-  margin-bottom: 2rem;
-  color: #1a1a1a; /* dark gray */
+  margin-bottom: 20px;
+  color: #1a1a1a;
 }
 
-/* Navigation */
+/* Navigation Styles */
 .doctrine-nav ul {
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1rem;
-  list-style: none;
+  gap: 10px;
   padding: 0;
-  margin: 0 0 2.5rem;
+  margin: 0 0 30px 0;
 }
 
 .doctrine-nav li {
@@ -36,59 +41,101 @@ body {
 }
 
 .doctrine-nav a {
-  text-decoration: none;
-  background: #012855;
-  padding: 0.4rem 1.5rem;
-  border-radius: 6px;
-  transition: all 0.3s ease;
-  font-weight: 500;
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #012855; /* dark navy */
   color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.3s;
 }
 
 .doctrine-nav a:hover {
-  background: #0a4ca3;
-  color: #fff;
+  background-color: #0a4ca3; /* lighter navy */
 }
 
-/* Sections */
+/* Section Styles */
 .doctrine-sections {
-  display: flex;
-  flex-direction: column;
-  gap: 2.5rem;
+  margin-top: 20px;
+}
+
+.doctrine-section {
+  margin-bottom: 40px;
 }
 
 .doctrine-section h2 {
   font-size: 1.8rem;
-  margin-bottom: 1rem;
-  color: #004080; /* deep blue */
-  border-bottom: 2px solid #004080;
-  padding-bottom: 0.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #003366;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
 }
 
 .doctrine-section p {
-  margin-bottom: 1rem;
+  margin: 10px 0;
+  text-align: justify;
+  font-size: 17px;
   line-height: 1.7;
   color: #333;
-  font-size: 17px;
 }
 
-/* Responsive */
+/* Responsive Design */
 @media (max-width: 768px) {
   .doctrine-title {
-    font-size: 2rem;
-  }
-
-  .doctrine-nav ul {
-    flex-direction: column;
-    align-items: stretch;
+    font-size: 1.5rem;
   }
 
   .doctrine-nav a {
-    text-align: center;
-    width: 100%;
+    font-size: 0.85rem;
+    padding: 6px 12px;
   }
 
   .doctrine-section h2 {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
+  }
+
+  .doctrine-section p {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .doctrine-nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .doctrine-nav a {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .doctrine-nav ul {
+    flex-direction: column;   /* stack buttons vertically */
+    align-items: center;
+  }
+
+  .doctrine-nav a {
+    width: 100%;              /* full width buttons */
+    text-align: center;
+    padding: 10px;            /* bigger tap area */
+    font-size: 1rem;
+  }
+
+  .doctrine-title {
+    font-size: 1.3rem;
+  }
+
+  .doctrine-section h2 {
+    font-size: 1rem;
+  }
+
+  .doctrine-section p {
+    font-size: 0.9rem;
   }
 }

@@ -146,7 +146,9 @@ function TestimonyContent() {
            With that  I was relieved and quickly brought out my pocket Gideon's Bible and read it out from Matthew 13. 
            Then, he smiled kindly and told me to come in as he opened his door, with excitement. They were Catholics.<br/><br/>
             When I sat down, he called for his wife to come and share her vision with me. She said, <em>"Brother, I was not sleeping. I was awake this morning around 2:00 a.m., thinking about what you taught in the fellowship 
-            as it was quite strange. It gave me a sleepless night. But at the momentous time, a great light came into my room and shone so bright. As I watched, every feeling of fear was gone, I saw Jesus standing before me. He said, "My daughter,  believe what my son taught you. It is the truth. Did I not tell you that "a sower went out to sow seeds, and the enemy came in and sowed tares?" Believe it. It is the truth. " As soon as He concluded, the whole scene turned normal as He vanished from my sight." </em> She concluded.
+            as it was quite strange. It gave me a sleepless night. But at the momentous time, a great light came into my room and shone so bright. <br/> As I watched, every feeling of fear was gone, I saw Jesus standing 
+            before me. He said, "My daughter,  believe what my son taught you. It is the truth. Did I not tell you that "a sower went out to sow seeds, and the enemy came in and sowed tares?" Believe it. It is the truth. 
+            " As soon as He concluded, the whole scene turned normal as He vanished from my sight." </em> She concluded.
             Honestly, I never knew before that time that the Scripture our Lord Jesus spoke in that vision had any relation to the serpent seed doctrine. Now I understand it speaks of the spiritual serpent seed.<br/><br/>
             I bless God for His grace.
             <br/>
