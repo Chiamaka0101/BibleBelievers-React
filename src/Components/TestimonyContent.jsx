@@ -70,7 +70,7 @@ function TestimonyContent() {
 
   return (
     <div className="homepage">
-      <h2 className="homepage-title">...</h2>
+      <h2 className="homepage-title">Believers Testimonies</h2>
 
       <div className="testimony-content">
         <div className="text-section">
@@ -155,10 +155,34 @@ function TestimonyContent() {
           <button className="toggle-btn" onClick={() => toggleExpand(3)}>
             {expanded[3] ? "Read Less ▲" : "Read More ▼"}
           </button>
-        </div>
+        </div>  
+
+
+        <div className="testimony-box">
+          <h4>A Testimony</h4>
+          <p className={`preview ${expanded[4] ? "expanded" : ""}`}>
+          In late July 2004, just before beginning my ministry, I had a profound experience. 
+          While lying on my father's bed in the same room where I often prayed as a teenager, 
+          17- 19 years old, when the house was still under construction, I fell into a trance.<br/><br/>
+
+          I saw a vast gathering of believers in Africa, asleep in a field shrouded in darkness. 
+          Suddenly, a brilliant light from heaven illuminated the scene, reminiscent of the Shekinah 
+          glory with the face of Jesus Christ. This light was similar to the Mystery Cloud that appeared 
+          in the Western skies on February 28, 1963. The intensity of the light jolted me awake, 
+          and I was the first to see it. I shouted, "Jesus!" and attempted to rouse the others, but only a few responded. 
+          The majority remained in a deep slumber. I came out of the experience. Shortly after, in August of that year, 
+          I received my ministry. This experience was a pivotal moment, marking the beginning of my journey.
+            <br/>
+            <strong>Pastor Chibueze Uzoho Nigeria </strong>
+          </p>
+          <button className="toggle-btn" onClick={() => toggleExpand(4)}>
+            {expanded[4] ? "Read Less ▲" : "Read More ▼"}
+          </button>
         </div>
 
+
       </div>
+    </div>
     </div>
   );
 }

@@ -3,6 +3,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f8f9fa;
   color: #333;
+  font-weight: 500;
 }
 
 .doctrine-container {
@@ -37,7 +38,7 @@ body {
 .doctrine-nav a {
   text-decoration: none;
   background: #012855;
-  padding: 0.5rem 1rem;
+  padding: 0.4rem 1.5rem;
   border-radius: 6px;
   transition: all 0.3s ease;
   font-weight: 500;
